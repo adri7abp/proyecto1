@@ -1,0 +1,21 @@
+.ui-header,
+.ui-footer {
+	background-color: blue;
+	border-width: 1px 0;
+	border-style: solid;
+	position: relative;
+}
+.ui-header:empty,
+.ui-footer:empty {
+	background-color: blue;
+}
+.ui-header .ui-title,
+.ui-footer .ui-title {
+	background-color: blue;
+}
+.ui-footer .ui-title {
+	background-color: blue;
+}
+.ui-content {
+	background-color: lightblue;
+}
