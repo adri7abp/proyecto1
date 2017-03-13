@@ -1,0 +1,21 @@
+.ui-header,
+.ui-footer {
+	background-color: yellow;
+	border-width: 1px 0;
+	border-style: solid;
+	position: relative;
+}
+.ui-header:empty,
+.ui-footer:empty {
+	background-color: yellow;
+}
+.ui-header .ui-title,
+.ui-footer .ui-title {
+	background-color: yellow;
+}
+.ui-footer .ui-title {
+	background-color: yellow;
+}
+.ui-content {
+	background-color: lightyellow;
+}
